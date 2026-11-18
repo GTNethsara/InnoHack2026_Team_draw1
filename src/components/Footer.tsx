@@ -1,7 +1,6 @@
 import React from 'react';
 import { KeyRound, MapPin, Phone, ShieldCheck } from 'lucide-react';
 import { InnoHackLogo } from './InnoHackLogo';
-import { BACKEND_MODE_LABEL } from '../services/portalApi';
 
 interface FooterProps {
   onOpenAdmin: () => void;
